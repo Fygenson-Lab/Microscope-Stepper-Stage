@@ -1,0 +1,2 @@
+import circuitpython
+circuitpython.openSerialMonitor
